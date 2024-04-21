@@ -1,7 +1,5 @@
-# potato-disease-classifier
+**CNN Plant Disease Classification**
 
-# Plant Disease Classification Using CNN (On potato)
+__Overview__
 
-# Overview:-
-
-# This repository implements a Convolutional Neural Network (CNN) for classifying plant diseases using TensorFlow and Keras. The model is trained on the Plant Village dataset to # predict various plant diseases.*/
+This repository implements a Convolutional Neural Network (CNN) for classifying plant diseases using TensorFlow and Keras. The model is trained on the PlantVillage dataset to predict various plant diseases.
